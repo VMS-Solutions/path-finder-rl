@@ -1,0 +1,9 @@
+torch
+torchvision
+numpy
+pandas
+pyglet
+matplotlib
+pyvirtualdisplay
+imageio
+opencv-python
